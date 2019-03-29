@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CommFragmentActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="editText_text"></string>
+    <string name="editText_hint">enter a message</string>
+    <string name="button_text">SEND</string>
+    <string name="textView_message_display_message">Message appears here</string>
+</resources>
